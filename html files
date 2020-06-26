@@ -1,0 +1,409 @@
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="olaseb.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+
+        <header>
+            <nav>
+                <div class="logo">
+                    <img src="olalogo.jpg">
+                </div>
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="events.html">event</a></li>
+                    <li><a href="gallery.html">gallery</a></li>
+                    <li><a href="contacts.html">booking</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="home">
+            <div class="home-top">
+                <div class="one">
+                    <h1>that leizure place you are looking for might be closer</h1>
+                </div>
+            </div>
+            <div class="two">
+                <p>come get your party done at olaseb event center and put good face on your audience</p>
+            </div>
+    
+        </div>
+        
+        <div class="home-mid">
+            <div class="mid1">
+                <h1>experience an unrivaled multi-purpose leizure center</h1>
+            </div>
+            <div class="mid2">
+                <p>Every top-class event deserve a top-class place to get it done. Olaseb Event Center is the place for such events. It is a palace of comfort where you can get your audience hosted. We've got a lot of packages for you which makes us standout. There is large good looking hall which is well ventilated with full AC, also equiped with first-class facilities.</p>
+                <p>Consultation as regards to how you carry out you event is also what we do. Supplement services we provide here is also a thing of commendation. We make your hair for you accompanied with fascinating make-up which makes you look good. There is also lounge where you can relax and enjoy our assorted wines which gets your head cooled of congestion of thoughts.</p>
+            </div>
+        </div>
+
+        <div class="home-middle">
+            <img src="ola4.jpg">
+            <div class="middle-bottom">
+                <div class="bottom-display">
+                    <h2>number one in Itele</h2>
+                    <p>In Itele axis and its neighboring cities, there is no place that can be compared to Olaseb Event Center for its outstanding features.</p>
+                </div>
+
+                <div class="bottom-display">
+                    <h2>heart-robbing layout</h2>
+                    <p>looking at how everything is placed(i.e our building layout) makes you feel royal and look like you are in palace of kings.</p>
+                </div>
+
+                <div class="bottom-display">
+                    <h2>pleasing location</h2>
+                    <p>Why making your audience feel bad by hosting your event at shabby places. Come now and enjoy captivating location.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="server">
+        <div class="service-section">
+            <div class="section-one"><h3>event hosting</h3></div>
+            <div class="section2">
+                <h2>we always pay attention to your wants and need</h2>
+                <p>Our customers needs are our priorities. We listen more to your needs and complaints and get them solved for you so as to serve you better.</p>
+            </div>
+        </div>
+
+        <div class="service-section">
+            <div class="section-two"><h3>unrivaled location</h3></div>
+            <div class="section2">
+                <h2>only a step to the main road</h2>
+                <p>No need to drive deep inside some unknown cities. The good news is that we located at the car way which make it easier loCating the venue.</p>
+            </div>
+        </div>
+
+        <div class="service-section">
+            <div class="section-three"><h3>come and enjoy</h3></div>
+            <div class="section2">
+                <h2>there is bar for you to clear your head</h2>
+                <p>we've also get a bar for you filled with good tasty wines that get your stress flood away from you.</p>
+            </div>
+        </div>
+        </div>
+
+       
+
+        <div class="event">
+            <div class="top"><h3>event center</h3></div>
+            <div class="center-of-event">
+                <div class="event-center">
+                    <img src="ola13.jpg">
+                    <h2>standard hall</h2>
+                    <p>Olaseb Event Hall is well designed and fits in any kind of event you want to host. You just bring them on. We are always here for you !!!</p>
+                </div>
+    
+                <div class="event-center">
+                    <img src="ola3.jpg">
+                    <h2>top-class environment</h2>
+                    <p>The vicinity of our site cannot be compared to any as it looks good that you will always want to come again. come now and don't you miss out!!!</p>
+                </div>
+    
+                <div class="event-center">
+                    <img src="ola5.jpg">
+                    <h2>top-notch facilities</h2>
+                    <p>The equipments and facilities in presence are of great qualities which cannot be enjoyed elsewhere except at Olaseb. We make our customers royals!!!</p>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="contact">
+            <div class="head">
+                <h2>olaseb event center</h2>
+            </div>
+            <div class="mid">
+                <p>70, toyin olayisade street, RSO bus stop</p>
+                <p>Itele, Ogun</p>
+                <p>+2348167549919</p>
+            </div>
+        </div>
+
+        <div class="last">
+            <h4>olaseb event center</h4>
+            <h4 class="ones">designed by excel ventures</h4>
+        </div>
+
+    </body>
+</html>
+
+
+gallery
+
+<html>
+    <head>
+        <link rel="stylesheet" href="olaseb.css">
+        <link rel="stylesheet" href="gallery.css">
+    </head>
+    <body>
+        
+        <header>
+            <nav>
+                <div class="logo">
+                    <img src="olalogo.jpg">
+                </div>
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="events.html">event</a></li>
+                    <li><a href="gallery.html">gallery</a></li>
+                    <li><a href="contacts.html">booking</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="gallery-images">
+               <img src="ola1.jpg">
+                <img src="ola2.jpg">
+                <img src="ola3.jpg">
+                <img src="ola4.jpg">
+                <img src="ola5.jpg">
+                <img src="ola6.jpg">
+                <img src="ola7.jpg">
+                <img src="ola8.jpg">
+                <img src="ola17.jpg">
+                <img src="ola9.jpg">
+                <img src="ola10.jpg">
+                <img src="ola11.jpg">
+                <img src="ola12.jpg">
+                <img src="ola13.jpg">
+                <img src="ola14.jpg">
+                <img src="ola15.jpg">
+                
+        </div>
+            
+        
+        <div class="contact">
+            <div class="head">
+                <h2>olaseb event center</h2>
+            </div>
+            <div class="mid">
+                <p>70, toyin olayisade street, RSO bus stop</p>
+                <p>Itele, Ogun</p>
+                <p>+2348167549919</p>
+            </div>
+        </div>
+
+        <div class="last">
+            <h4>olaseb event center</h4>
+            <h4 class="ones">designed by excel ventures</h4>
+        </div>
+
+    </body>
+</html>
+
+
+
+events
+
+
+
+<html>
+    <head>
+        <title>events</title>
+        <link rel="stylesheet" href="olaseb.css">
+        <link rel="stylesheet" href="events.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    
+    <body>
+        <header>
+            <nav>
+                <div class="logo">
+                    <img src="olalogo.jpg">
+                </div>
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="events.html">event</a></li>
+                    <li><a href="gallery.html">gallery</a></li>
+                    <li><a href="contacts.html">booking</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="top-event">
+            <div class="first-event">
+                <div><h3>events hosting</h3></div>
+                <h1>five star event center awaits you</h1>
+            </div>
+        </div>
+
+        <div class="mid1">
+            <h1>experience an unrivaled 2 in 1 leizure center</h1>
+        </div>
+        <div class="mid2">
+            <p>every top-class event deserve a top-class place to get it done. Olaseb Event Center is the place for such events. it is a palace of comfort where you can getnyour audience hosted. we've got a lot of packages for you which makes us standout. There is large good looking hall which is well ventilated with full AC, also equiped with first-class facilities.</p>
+            <p>consultation as regards to how you carry out you event is also what we do. supplement services we provide here is also a thing of commendation. We make your hair for you accompanied with fascinating make-up which makes you look good. there is also lounge where you can relax and enjoy our assorted wines which gets your head cooled of congestion of thoughts.</p>
+        </div>
+        
+        <div class="offers">
+            <div class="all-offers">
+                <div class="offer">
+                    <i class="fa fa-check-circle" aria-hidden="true" icon-3x></i>
+                    <h2>rate guarantee</h2>
+                </div>
+                <div class="offer">
+                    <i class="fa fa-check-circle" aria-hidden="true" icon-3x></i>
+                    <h2>large hall</h2>
+                </div>
+                <div class="offer">
+                    <i class="fa fa-check-circle" aria-hidden="true" icon-3x></i>
+                    <h2>best ventilation</h2>
+                </div>
+                <div class="offer">
+                    <i class="fa fa-check-circle" aria-hidden="true" icon-3x></i>
+                    <h2>loyal employees</h2>
+                </div>
+                <div class="offer">
+                    <i class="fa fa-check-circle" aria-hidden="true" icon-3x></i>
+                    <h2>well equipped</h2>
+                </div>
+                <div class="offer">
+                    <i class="fa fa-check-circle" aria-hidden="true" icon-3x></i>
+                    <h2>first-grade facilities</h2>
+                </div>
+
+            </div>
+        </div>
+        
+<div class="event">
+    <div class="top"><h3>event center</h3></div>
+    <div class="center-of-event">
+        <div class="event-center">
+            <img src="ola13.jpg">
+            <h2>standard hall</h2>
+            <p>Olaseb Event Hall is well designed and fits in any kind of event you want to host. You just bring them on. We are always here for you !!!</p>
+        </div>
+
+        <div class="event-center">
+            <img src="ola3.jpg">
+            <h2>top-class environment</h2>
+            <p>The vicinity of our site cannot be compared to any as it looks good that you will always want to come again. come now and don't you miss out!!!</p>
+        </div>
+
+        <div class="event-center">
+            <img src="ola5.jpg">
+            <h2>top-notch facilities</h2>
+            <p>The equipments and facilities in presence are of great qualities which cannot be enjoyed elsewhwere except at Olaseb. We make our customers royals!!!</p>
+        </div>
+    </div>
+
+        <div class="event-bottom">
+            <h2>rent and thank us</h2>
+        </div>
+
+
+
+        <div class="contact">
+            <div class="head">
+                <h2>olaseb event center</h2>
+            </div>
+            <div class="mid">
+                <p>70, toyin olayisade street, RSO bus stop</p>
+                <p>Itele, Ogun</p>
+                <p>+2348167549919</p>
+            </div>
+        </div>
+
+        <div class="last">
+            <h4>olaseb event center</h4>
+            <h4 class="ones">designed by excel ventures</h4>
+        </div>
+
+
+    </body>
+</html>
+
+
+booking
+
+
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="olaseb.css">
+        <link rel="stylesheet" href="contact.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+
+        <header>
+            <nav>
+                <div class="logo">
+                    <img src="olalogo.jpg">
+                </div>
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="events.html">event</a></li>
+                    <li><a href="gallery.html">gallery</a></li>
+                    <li><a href="contacts.html">booking</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <form netlify>
+            <div><h2>contact us</h2></div>
+           <h1>book for your event</h1>
+           <p>Please make a booking request using our contact form and we will get back to you as soon as possible.</p>
+
+           <div class="booking">
+               <div class="booking-form">
+                <div class="date">
+                    <input type="date" name="date" placeholder="To - 19 June 2020">
+                </div>
+                <div class="name"><input type="text" name="names" placeholder="Your Name"></div>
+                <div class="mail"><input type="email" name="mail" placeholder="Your Email"></div>
+                <div class="phone"><input type="text" name="number" placeholder="Phone Mumber"></div>
+                <div class="message"><textarea name="message" cols="30" rows="10">Enter Your Message</textarea></div>
+                <div class="submit"><input type="submit" name="submit" value="Send Your Booking Request"></div>
+               </div>
+               
+           </div>
+        </form>
+
+           <div class="home-middle">
+            <div class="middle-bottom">
+                
+                    <div class="bottom-display">
+                        <h2>Call for reservation</h2>
+                        <a class="call" href="tel:+2348167549919"><i class="fa fa-phone"></i></a>
+                        <p>With your phone, you can just call us and get information about us. You can make booking ahead your event before someone else does.</p>
+                    </div>
+
+                <div class="bottom-display">
+                    <h2>send an enquiry</h2>
+                    <a class="call" href="www.saheed.adedapo111@gmail.com"><i class="fa fa-envelope"></i></a>
+                    <p>If you prefer sending us mail, here is another wayout for you. Click on this and send us your enquiry or informatin about your booking.</p>
+                </div>
+
+                <div class="bottom-display">
+                    <h2>reach us through whatsapp</h2>
+                    <a href="http://wa.me/+2348125072083"><i class="fa fa-whatsapp"></i></a>
+                    <p>You can also reach us through whatsapp. click on it and send us your enquiry message or your boioking request. Thank you.</p>
+                </div>
+            </div>
+
+            <div class="contact">
+                <div class="head">
+                    <h2>olaseb event center</h2>
+                </div>
+                <div class="mid">
+                    <p>70, toyin olayisade street, RSO bus stop</p>
+                    <p>Itele, Ogun</p>
+                    <p>+2348167549919</p>
+                </div>
+            </div>
+
+        <div class="last">
+            <h4>olaseb event center</h4>
+            <h4 class="ones">designed by excel ventures</h4>
+        </div>
+</html>
+    
